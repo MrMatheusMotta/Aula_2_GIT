@@ -7,6 +7,8 @@ body {
 }
 
 header {
+    background-color: blanchedalmond;
+  
  
 }
 
@@ -16,7 +18,11 @@ header img {
 }
 
 main {
-    
+    background-color: brown;
+
 }
 
+footer {
+    background-color: blanchedalmond;
+}
 
